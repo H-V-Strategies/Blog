@@ -1,3 +1,4 @@
+---
 title: HV Strategies Blog
 ---
 
@@ -5,8 +6,9 @@ title: HV Strategies Blog
 
 A macroeconomic blog exploring:
 
-- Global M&A deals
-- Investment strategies
-- Company valuations
+- Global M&A deals  
+- Investment strategies  
+- Company valuations  
 
 🚀 Stay tuned for future insights!
+
