@@ -1,5 +1,6 @@
 ---
 title: HV Strategies Blog
+layout: home
 ---
 
 # HV Strategies
